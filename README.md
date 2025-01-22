@@ -1,0 +1,1 @@
+This repository contains code for our Paper: Increase throughput of AST model by using token merging technique based on audio data features, In Proceedings of the Thirtieth International Symposium on Artificial Life and Robotics 2025 (AROB 30th 2025), pp.776-781, 2025.
